@@ -10,7 +10,7 @@ This repository, and all the files contained within it, makes up my final Assign
  
  3) Cleaned and Contextualized the data to be fed into a K-means clustering algorithm to give data-driven insights
  
- 4) Presented a usecase for this tool in the form of a proposal to solve a specific business need for a client. 
+ 4) Presented a usecase for this tool in the form of a [proposal](https://github.com/ritchatterjee/Battle-of-the-Neighbourhoods/blob/master/Capstone%20final.pdf) to solve a specific business need for a client. 
 
 
 
