@@ -1,4 +1,4 @@
-# [Module 9 - IBM Data Science Professional Capstone Project Repository](https://github.com/ritchatterjee/Battle-of-the-Neighbourhoods) 
+# [IBM Data Science Professional Capstone Project Repository](https://github.com/ritchatterjee/Battle-of-the-Neighbourhoods) 
 
 This repository, and all the files contained within it, makes up my final Assignment for the Capstone Project for IBM's Applied Data Science Professional. This is my final module in the IBM Data Science Professional Certificate programme.
 
