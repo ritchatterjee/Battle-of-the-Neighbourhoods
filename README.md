@@ -12,6 +12,6 @@ This repository, and all the files contained within it, makes up my final Assign
  
 * Presented a usecase for this tool in the form of a [proposal](https://github.com/ritchatterjee/Battle-of-the-Neighbourhoods/blob/master/Capstone%20final.pdf) to solve a specific business need for a client. 
 
-![](https://github.com/ritchatterjee/Battle-of-the-Neighbourhoods/blob/master/Picture1.png)
-![](https://github.com/ritchatterjee/Battle-of-the-Neighbourhoods/blob/master/Picture2.png)
+![](Picture1.png)
+![](Picture2.png)
 
